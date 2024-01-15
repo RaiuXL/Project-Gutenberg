@@ -1,0 +1,6 @@
+Analytics for The Great Gatsby.txt
+------------------------------------------
+
+Word Count: 53045
+Letter Count: 283148
+Line Count: 6772

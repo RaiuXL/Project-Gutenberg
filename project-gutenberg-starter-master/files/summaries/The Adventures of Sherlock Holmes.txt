@@ -1,0 +1,5 @@
+Analytics for The Adventures of Sherlock Holmes.txt
+------------------------------------------
+Word Count: 110357
+Letter Count: 569228
+Line Count: 12302

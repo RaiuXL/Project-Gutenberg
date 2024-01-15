@@ -1,0 +1,6 @@
+Analytics for Romeo and Juliet.txt
+------------------------------------------
+
+Word Count: 30412
+Letter Count: 156062
+Line Count: 5633
